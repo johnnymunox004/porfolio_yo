@@ -44,7 +44,7 @@ export default function Home() {
             className="min-h-screen flex flex-col justify-center items-center text-center p-8"
           >
             <h1 className="text-6xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400">
-              Tu Nombre
+              johnny
             </h1>
             
             <h2 className="text-3xl text-gray-300 mb-8">

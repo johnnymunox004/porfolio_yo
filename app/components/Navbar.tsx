@@ -14,7 +14,7 @@ export default function Navbar() {
             href="/" 
             className="flex items-center font-bold text-xl"
           >
-            Tu Nombre
+            johnny
           </Link>
           
           <div className="flex items-center space-x-8">
