@@ -5,7 +5,7 @@ import { useState } from "react";
 
 export default function Contact() {
   const [formData, setFormData] = useState({
-    name: '',
+    name: 'johnny',
     email: 'johnynm@gmail.com',
     message: ''
   });
