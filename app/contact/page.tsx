@@ -14,19 +14,17 @@ export default function Contact() {
     e.preventDefault();
     console.log('Formulario enviado:', formData);
     // Aquí añadirías la lógica para enviar el formulario
-  };
+  }
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900 py-20 px-4">
       <motion.div 
         initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
         className="max-w-2xl mx-auto"
       >
         <h1 className="text-4xl font-bold text-center mb-12">
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600">
             Contacto
-          </span>
         </h1>
 
         <motion.form 
